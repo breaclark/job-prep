@@ -20,3 +20,11 @@ Is there anything about searching for and transitioning into your future career 
 * Brainstorm lightning talk topics
 * Write a talk
 * Research places to give the talk
+
+## Execute Plan
+* Make Portfolio website
+  * ~~Get screenshots of best work~~
+  * Put screenshots on all readme's
+  * Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)
+  * Fix tap-room (Maybe check pablo's version see if it's working)
+  * Fix haiku-checker
