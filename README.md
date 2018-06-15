@@ -35,6 +35,15 @@ Is there anything about searching for and transitioning into your future career 
   * ~~Put in about text~~
 
 * Other things to do
+  * ~~Put links in resume for web~~
   * ~~Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)~~
   * Fix tap-room (Maybe check pablo's version see if it's working)
   * Fix haiku-checker
+
+## Reflection & Next Steps
+
+Do you feel like you made improvement today? Are you more confident and comfortable in one or more areas? Why or why not?
+* Yes, I feel more confident having a portfolio website ready to show people.
+
+Where are you at now? What are your next steps? What do you still need to accomplish to feel confident and prepared to begin your eventual job search?
+* I still need to get cards printed and work on a talk, though this was something I anticipated I wouldn't finish today anyways. I'll probably work on that this weekend.
