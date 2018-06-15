@@ -30,7 +30,7 @@ Is there anything about searching for and transitioning into your future career 
     * ~~Change appearance of project tiles~~
   * Add jquery/css animations
     * Nice scroll
-    * Top buttons underlined when on section
+    * ~~Top buttons underlined when on section~~
   * ~~Put in about text~~
 
 * Other things to do
