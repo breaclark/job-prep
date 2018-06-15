@@ -24,6 +24,7 @@ Is there anything about searching for and transitioning into your future career 
 ## Execute Plan
 * Make Portfolio website
   * ~~Get screenshots of best work~~
+  * ~~Put in linkedin, github, and email links~~
   * Make mobile responsive
     * ~~Put in hamburger menu at certain width~~
 
