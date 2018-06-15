@@ -14,9 +14,10 @@ Is there anything about searching for and transitioning into your future career 
 
 * ~~Make Portfolio website~~
 * ~~Post portfolio as github landing page~~
+* ~~Link portfolio page on linkedin, resume, and github~~
 * Fix up card
 * Look into card printing (get printed if find good place)
-* Finish cover letter
+* ~~Finish cover letter~~
 * Brainstorm lightning talk topics
 * Write a talk
 * Research places to give the talk
@@ -34,7 +35,6 @@ Is there anything about searching for and transitioning into your future career 
   * ~~Put in about text~~
 
 * Other things to do
-  * Put screenshots on all readme's
   * ~~Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)~~
   * Fix tap-room (Maybe check pablo's version see if it's working)
   * Fix haiku-checker
