@@ -22,14 +22,14 @@ Is there anything about searching for and transitioning into your future career 
 * Research places to give the talk
 
 ## Execute Plan
-* Make Portfolio website
+* ~~Make Portfolio website~~
   * ~~Get screenshots of best work~~
   * ~~Put in linkedin, github, and email links~~
   * ~~Make mobile responsive~~
     * ~~Put in hamburger menu at certain width~~
     * ~~Change appearance of project tiles~~
-  * Add jquery/css animations
-    * Nice scroll
+  * ~~Add jquery/css animations~~
+    * ~~Nice scroll~~
     * ~~Top buttons underlined when on section~~
   * ~~Put in about text~~
 
