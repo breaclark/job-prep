@@ -24,6 +24,10 @@ Is there anything about searching for and transitioning into your future career 
 ## Execute Plan
 * Make Portfolio website
   * ~~Get screenshots of best work~~
+  * Make mobile responsive
+    * ~~Put in hamburger menu at certain width~~
+
+* Other things to do
   * Put screenshots on all readme's
   * Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)
   * Fix tap-room (Maybe check pablo's version see if it's working)
