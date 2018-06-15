@@ -25,8 +25,10 @@ Is there anything about searching for and transitioning into your future career 
 * Make Portfolio website
   * ~~Get screenshots of best work~~
   * ~~Put in linkedin, github, and email links~~
-  * Make mobile responsive
+  * ~~Make mobile responsive~~
     * ~~Put in hamburger menu at certain width~~
+    * ~~Change appearance of project tiles~~
+  * Add jquery/css animations
 
 * Other things to do
   * Put screenshots on all readme's
