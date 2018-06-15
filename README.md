@@ -12,8 +12,8 @@ Is there anything about searching for and transitioning into your future career 
 
 ## Plan
 
-* Make Portfolio website
-* Post portfolio as github landing page
+* ~~Make Portfolio website~~
+* ~~Post portfolio as github landing page~~
 * Fix up card
 * Look into card printing (get printed if find good place)
 * Finish cover letter
