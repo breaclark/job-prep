@@ -29,9 +29,12 @@ Is there anything about searching for and transitioning into your future career 
     * ~~Put in hamburger menu at certain width~~
     * ~~Change appearance of project tiles~~
   * Add jquery/css animations
+    * Nice scroll
+    * Top buttons underlined when on section
+  * ~~Put in about text~~
 
 * Other things to do
   * Put screenshots on all readme's
-  * Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)
+  * ~~Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)~~
   * Fix tap-room (Maybe check pablo's version see if it's working)
   * Fix haiku-checker
