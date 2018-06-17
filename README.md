@@ -37,8 +37,9 @@ Is there anything about searching for and transitioning into your future career 
 * Other things to do
   * ~~Put links in resume for web~~
   * ~~Check on breaclark.github.io/drum-machine/ (can just leave the firebase link if necessary)~~
-  * Fix tap-room (Maybe check pablo's version see if it's working)
-  * Fix haiku-checker
+  * ~~Fix tap-room (Maybe check pablo's version see if it's working)~~
+    * ~~It's missing a model? Take off of github~~
+  * ~~Fix haiku-checker~~
 
 ## Reflection & Next Steps
 
