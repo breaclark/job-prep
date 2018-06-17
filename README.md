@@ -19,6 +19,8 @@ Is there anything about searching for and transitioning into your future career 
 * ~~Look into card printing (get printed if find good place)~~
 * ~~Finish cover letter~~
 * Brainstorm lightning talk topics
+  * Becoming a student again and learning how to learn programming
+  * D3 after dijibu?
 * Write a talk
 * Research places to give the talk
 
